@@ -1,2 +1,2 @@
 # lists
-Lists
+Lists of things
